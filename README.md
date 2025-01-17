@@ -1,2 +1,3 @@
 # taxsummary
-small java project
+A small java project
+main function in TaxAndBill.java file
